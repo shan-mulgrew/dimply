@@ -1,3 +1,3 @@
 # dimply
 
-#Test app to improve react skills
+#Test repo for practice
